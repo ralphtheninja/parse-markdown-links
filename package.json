@@ -1,0 +1,28 @@
+{
+  "name": "parse-markdown-links",
+  "version": "0.0.0",
+  "description": "Get all links from a markdown string",
+  "main": "index.js",
+  "dependencies": {
+    "remarkable": "1.7.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "homepage": "https://github.com/ralphtheninja/parse-markdown-links",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralphtheninja/parse-markdown-links.git"
+  },
+  "scripts": {
+    "test": "tape test && standard"
+  },
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "keywords": [
+    "markdown",
+    "links",
+    "urls"
+  ],
+  "license": "MIT"
+}
