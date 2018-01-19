@@ -2,6 +2,7 @@
 
 > Get all links from a markdown string.
 
+![Node version](https://img.shields.io/node/v/parse-markdown-links.svg)
 [![Build Status](https://travis-ci.org/ralphtheninja/parse-markdown-links.svg?branch=master)](https://travis-ci.org/ralphtheninja/parse-markdown-links)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
