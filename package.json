@@ -1,6 +1,6 @@
 {
   "name": "parse-markdown-links",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get all links from a markdown string",
   "main": "index.js",
   "dependencies": {
