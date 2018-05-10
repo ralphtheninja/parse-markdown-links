@@ -23,6 +23,8 @@ test('parses links correctly - contrived example', t => {
 
 test('parses links correctly - this README', t => {
   const expected = [
+    'https://www.npmjs.com/package/parse-markdown-links',
+    'https://img.shields.io/npm/v/parse-markdown-links.svg',
     'https://img.shields.io/node/v/parse-markdown-links.svg',
     'https://travis-ci.org/ralphtheninja/parse-markdown-links',
     'https://travis-ci.org/ralphtheninja/parse-markdown-links.svg?branch=master',
