@@ -7,7 +7,7 @@
     "remarkable": "1.7.1"
   },
   "devDependencies": {
-    "standard": "^12.0.0",
+    "standard": "^13.0.2",
     "tape": "^4.8.0"
   },
   "homepage": "https://github.com/ralphtheninja/parse-markdown-links",
